@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Obscurer
+  - Character
+  - BoneJoint
+  - Bone
+  - Podium
+  - CameraFadeTrigger
+  - SceneTransitionCutout
+  - SceneTransitionBackground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Foliage
+  - Water
+  - UI
+  - Obscure
+  - Ground
+  - Ignored
+  - Character
+  - BoneLayer
+  - 
+  - 
+  - 
+  - 
+  - DirtTile
+  - SandTile
+  - BuildingTray
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Digging - Background
+    uniqueID: 1723354825
+    locked: 0
+  - name: Digging - Default
+    uniqueID: 3084749769
+    locked: 0
+  - name: Digging Foreground
+    uniqueID: 3987733663
+    locked: 0
+  - name: Building - Background
+    uniqueID: 2503321435
+    locked: 0
+  - name: Building - Default
+    uniqueID: 2328650243
+    locked: 0
+  - name: Building Foreground
+    uniqueID: 2663033695
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
