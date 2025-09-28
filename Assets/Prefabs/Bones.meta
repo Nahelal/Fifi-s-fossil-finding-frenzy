@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/Bones.meta
+guid: fdcc35adb7cc9f14dbd3011df54d5cb7
+folderAsset: yes
+DefaultImporter:
+========
+guid: 6003f408d8cf85d42923b00ea7d88a59
+NativeFormatImporter:
+>>>>>>>> origin/Staging:Assets/Tilemaps/Tiles/Spawnpoint.asset.meta
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

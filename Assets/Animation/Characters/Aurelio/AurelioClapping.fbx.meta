@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 88070540edf12df4094ee19aed164f62
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AurelioCheer
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: AurelioClapping(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Leg_IK
+      parentName: AurelioClapping(Clone)
+      position: {x: 0.047213502, y: 0.00816485, z: 1.5543122e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Foot_Ctrl
+      parentName: AurelioClapping(Clone)
+      position: {x: 0.047213502, y: 0.008164848, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Knee_Ctrl
+      parentName: R_Foot_Ctrl
+      position: {x: -0.010542301, y: 0.02855691, z: 0.032525178}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: Left_Leg_IK
+      parentName: AurelioClapping(Clone)
+      position: {x: -0.04766715, y: 0.008164848, z: 8.9164784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Foot_Ctrl
+      parentName: AurelioClapping(Clone)
+      position: {x: -0.04766715, y: 0.008164848, z: 8.9164784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Knee_Ctrl
+      parentName: L_Foot_Ctrl
+      position: {x: 0.01053499, y: 0.02855691, z: 0.032525178}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Waist_Ctrl
+      parentName: AurelioClapping(Clone)
+      position: {x: -0.00022684758, y: 0.075936705, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerSpine_Crtl
+      parentName: Waist_Ctrl
+      position: {x: 0.0009855207, y: 0.012714086, z: -0.0040122108}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidSpine_Ctrl
+      parentName: LowerSpine_Crtl
+      position: {x: -0, y: 0.01660738, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck_Ctrl
+      parentName: MidSpine_Ctrl
+      position: {x: -0, y: 0.015114574, z: 2.753353e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Sholder_Ctrl
+      parentName: MidSpine_Ctrl
+      position: {x: -0.026142009, y: 0.0004924619, z: 0.0040122108}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Elbow_Ctrl
+      parentName: L_Sholder_Ctrl
+      position: {x: -0.025546908, y: -0.01099575, z: 0.0012372441}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Sholder_Ctrl
+      parentName: MidSpine_Ctrl
+      position: {x: 0.024624625, y: 0.0004928243, z: 0.0040122108}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Elbow_Ctrl
+      parentName: R_Sholder_Ctrl
+      position: {x: 0.025546899, y: -0.010996103, z: 0.0012372399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle1
+      parentName: LowerSpine_Crtl
+      position: {x: -0.00075867306, y: 0.042738236, z: -0.0024491318}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 9.277255, y: 9.277255, z: 9.277255}
+    - name: AurelioMesh
+      parentName: AurelioClapping(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Root_JT
+      parentName: AurelioClapping(Clone)
+      position: {x: 0.00081368466, y: 0.07287643, z: -0.007405256}
+      rotation: {x: 0.64391804, y: 0.17870088, z: 0.11995435, w: 0.7341979}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: L_Hip_JT
+      parentName: L_Root_JT
+      position: {x: -0.02780193, y: -2.3758852e-18, z: -5.083313e-18}
+      rotation: {x: 0.028809633, y: 0.373117, z: -0.011937736, w: 0.92726004}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: L_Knee_JT
+      parentName: L_Hip_JT
+      position: {x: -0.030913748, y: 2.698723e-18, z: -1.552594e-17}
+      rotation: {x: -0.7202848, y: -0.13592438, z: 0.14743264, w: 0.6640617}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: L_Poot_JT
+      parentName: L_Knee_JT
+      position: {x: -0.03110845, y: -1.110223e-18, z: 0}
+      rotation: {x: -0, y: -0.0000000074505797, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: R_Hip_JT
+      parentName: L_Root_JT
+      position: {x: 0.017976196, y: 0.0027242708, z: 0.021032827}
+      rotation: {x: -0.6851408, y: -0.07299017, z: -0.7235619, w: 0.041385777}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000004}
+    - name: R_Knee_JT
+      parentName: R_Hip_JT
+      position: {x: 0.030913804, y: 6.965711e-10, z: 0.00000006407918}
+      rotation: {x: 0.7202849, y: 0.13592438, z: -0.1474326, w: -0.6640618}
+      scale: {x: 1.0000005, y: 1.0000001, z: 0.99999976}
+    - name: R_Poot_JT
+      parentName: R_Knee_JT
+      position: {x: 0.031108433, y: -0.000000019415502, z: 0.0000000069427153}
+      rotation: {x: -0, y: -0.000000007450579, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Spine_JT_1
+      parentName: L_Root_JT
+      position: {x: 0.006492675, y: -0.0021075404, z: -0.01149437}
+      rotation: {x: -0.3289582, y: -0.58167946, z: -0.60397685, w: 0.4343358}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Spine_JT_2
+      parentName: Spine_JT_1
+      position: {x: -0.016607378, y: -3.469447e-18, z: -1.6653345e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Spine_JT_3
+      parentName: Spine_JT_2
+      position: {x: -0.0151145775, y: 1.9980868e-11, z: -1.0750894e-10}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1}
+    - name: Neck_JT_1
+      parentName: Spine_JT_3
+      position: {x: -0.011016289, y: -0.00075867306, z: -0.002449132}
+      rotation: {x: 0.69987184, y: -0.10089311, z: 0.10089314, w: 0.6998719}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Neck_JT_2
+      parentName: Neck_JT_1
+      position: {x: -0.17720705, y: -5.3290704e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: R_Sholder_JT
+      parentName: Spine_JT_2
+      position: {x: -0.00049282785, y: 0.024624625, z: 0.0040122108}
+      rotation: {x: -0.5167622, y: -0.48725218, z: 0.47910428, w: 0.5157532}
+      scale: {x: 1, y: 1.0000002, z: 0.99999976}
+    - name: R_Elbow_JT
+      parentName: R_Sholder_JT
+      position: {x: 0.02784042, y: 0.000000009956117, z: -0.000000327507}
+      rotation: {x: 0.000000029802319, y: -0.018555848, z: 0.000000029802319, w: 0.9998279}
+      scale: {x: 1.0000006, y: 0.9999999, z: 1.0000004}
+    - name: R_Hand_JT
+      parentName: R_Elbow_JT
+      position: {x: 0.026393184, y: -0.0000000040779233, z: -0.000000019283895}
+      rotation: {x: -0.00000003007369, y: 0.000000027939674, z: -0.000000014345585,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: L_Sholder_JT
+      parentName: Spine_JT_2
+      position: {x: -0.00049246143, y: -0.026142005, z: 0.0040122108}
+      rotation: {x: 0.47910118, y: 0.5157559, z: 0.5167652, w: 0.48724914}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: L_Elbow_JT
+      parentName: L_Sholder_JT
+      position: {x: -0.02784029, y: -6.5225603e-18, z: -3.5527136e-17}
+      rotation: {x: 0.000000059604638, y: -0.018555908, z: -0.000000029802319, w: 0.99982786}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: L_Hand_JT
+      parentName: L_Elbow_JT
+      position: {x: -0.026393183, y: 0, z: -2.0816682e-17}
+      rotation: {x: -0, y: -0, z: 1.6653343e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

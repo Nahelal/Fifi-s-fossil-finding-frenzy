@@ -1,0 +1,2642 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &33952537541481463
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2802333832123315420}
+  - component: {fileID: 1839101852805994504}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2802333832123315420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 33952537541481463}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9124346591709146594}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1839101852805994504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 33952537541481463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: No, they love digging!
+--- !u!1 &45894385834407708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7612943699082938444}
+  - component: {fileID: 1602520292636815035}
+  m_Layer: 9
+  m_Name: 'Player: Need Fossils'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7612943699082938444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 45894385834407708}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5427441868901964959}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1602520292636815035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 45894385834407708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 0}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Yes I am, but all of the fossils have gone! I'll have to find some more...
+--- !u!1 &74675684930130421
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7261217592695973379}
+  - component: {fileID: 1936206283165328076}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7261217592695973379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74675684930130421}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8467101217212871652}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1936206283165328076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74675684930130421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Nice!
+--- !u!1 &77423963836681056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3978057068514913666}
+  - component: {fileID: 6350017645964920463}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3978057068514913666
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77423963836681056}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1166331554147103399}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6350017645964920463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77423963836681056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: That Maria lady scares me!
+--- !u!1 &117883332290901804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3821046702874224146}
+  - component: {fileID: 6141169259274459003}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3821046702874224146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117883332290901804}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5756661740951335506}
+  m_Father: {fileID: 6216867838762389828}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6141169259274459003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117883332290901804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Her teeth are so sharp, she could pop my nose with them!
+--- !u!1 &147347252034040519
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2731179658421167235}
+  - component: {fileID: 1475361630002502039}
+  - component: {fileID: 8231200755803928770}
+  m_Layer: 9
+  m_Name: 'Aurelio: Hi'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2731179658421167235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147347252034040519}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9201045769563098779}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1475361630002502039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147347252034040519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 532355fa3d3374dea9c9919456042281, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 4622102469229348563, guid: 11a489c30fd6441bda42be5381b357fd,
+    type: 3}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: 'Hi! <size=50%><wiggle a=0.1><rainb>*HICCUP*</></size> It''s been so long
+    since I saw you! <size=50%><wiggle a=0.1><rainb>*HICCUP*</></size> '
+--- !u!114 &8231200755803928770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147347252034040519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d885d58434d45d58702fbe7afce7527, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item:
+    type: Spoken 1
+    image: {fileID: 0}
+    description: 
+    owner: {fileID: 0}
+    hidden: 1
+  inventory: {fileID: 0}
+--- !u!1 &314651217429431695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8296562213076738884}
+  - component: {fileID: 4973559516770627029}
+  m_Layer: 9
+  m_Name: Second conversation (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8296562213076738884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314651217429431695}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6140298273999644937}
+  - {fileID: 9124346591709146594}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4973559516770627029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314651217429431695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &991599564943485834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2297322770759111909}
+  - component: {fileID: 9128462638059707139}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2297322770759111909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991599564943485834}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2489977607081280469}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9128462638059707139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991599564943485834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Thanks!
+--- !u!1 &1383417087913225992
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2489977607081280469}
+  - component: {fileID: 8386548805284437407}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2489977607081280469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383417087913225992}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2297322770759111909}
+  m_Father: {fileID: 8723274296771424942}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8386548805284437407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383417087913225992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I-I'm sure it will, though!
+--- !u!1 &1592793990940146408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8467101217212871652}
+  - component: {fileID: 789502486037205407}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8467101217212871652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1592793990940146408}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7261217592695973379}
+  m_Father: {fileID: 4224466969123754285}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &789502486037205407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1592793990940146408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Now I just read historical fiction!
+--- !u!1 &1659205298381202781
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1153155169859710380}
+  - component: {fileID: 5490754135279438045}
+  m_Layer: 9
+  m_Name: Second conversation (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1153155169859710380
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659205298381202781}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9214362562291667624}
+  - {fileID: 3119339438643052780}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5490754135279438045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659205298381202781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &1947712617483063270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6216867838762389828}
+  - component: {fileID: 5622765915917980951}
+  m_Layer: 9
+  m_Name: Second conversation (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6216867838762389828
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947712617483063270}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 832691547139482439}
+  - {fileID: 3821046702874224146}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5622765915917980951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947712617483063270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &2003001626871965559
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4859321561112906072}
+  - component: {fileID: 3460314348136601848}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4859321561112906072
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2003001626871965559}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3825297261993525657}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3460314348136601848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2003001626871965559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: It might have to wait until i've got the fossils!
+--- !u!1 &2391976320046135595
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4619041965180592939}
+  - component: {fileID: 6970257854272392715}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4619041965180592939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2391976320046135595}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5198230905085069925}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6970257854272392715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2391976320046135595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Nobody knows...
+--- !u!1 &2545514687429440975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5198230905085069925}
+  - component: {fileID: 5045916420317957181}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5198230905085069925
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2545514687429440975}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4619041965180592939}
+  m_Father: {fileID: 2324679255908247695}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5045916420317957181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2545514687429440975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I wonder what he hides underneath those bangs...
+--- !u!1 &2610241546263127342
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3307098681217423532}
+  m_Layer: 9
+  m_Name: Aurelio Conversations
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3307098681217423532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2610241546263127342}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7043265258081531148}
+  - {fileID: 358012687383151031}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2777212412696756004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1183387954869978048}
+  - component: {fileID: 5397206136033680709}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1183387954869978048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2777212412696756004}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3119339438643052780}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5397206136033680709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2777212412696756004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Wow, thanks!
+--- !u!1 &2970675943062217375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5757579631184443558}
+  - component: {fileID: 876709030142146679}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5757579631184443558
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2970675943062217375}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2560691012246834862}
+  m_Father: {fileID: 1166331554147103399}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &876709030142146679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2970675943062217375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Her teeth are so sharp, she could pop my nose with them!
+--- !u!1 &2994205766002027183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8866240079036811197}
+  - component: {fileID: 2407247422400801558}
+  m_Layer: 9
+  m_Name: First Conversation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8866240079036811197
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2994205766002027183}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9201045769563098779}
+  m_Father: {fileID: 7043265258081531148}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2407247422400801558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2994205766002027183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &3489636583710356446
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9124346591709146594}
+  - component: {fileID: 216667182227034010}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9124346591709146594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3489636583710356446}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2802333832123315420}
+  m_Father: {fileID: 8296562213076738884}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &216667182227034010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3489636583710356446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: The ground is as dark as it gets!
+--- !u!1 &3554320069449661850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 832691547139482439}
+  - component: {fileID: 5232027208080554978}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &832691547139482439
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3554320069449661850}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6216867838762389828}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5232027208080554978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3554320069449661850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: That Maria lady scares me!
+--- !u!1 &3878438248776579555
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8014252442263157720}
+  - component: {fileID: 3120523188755543397}
+  m_Layer: 9
+  m_Name: Second conversation (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8014252442263157720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3878438248776579555}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6447876097299344626}
+  - {fileID: 3825297261993525657}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3120523188755543397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3878438248776579555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &4115221867933482251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8475309144421253827}
+  - component: {fileID: 1927014180901463817}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8475309144421253827
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4115221867933482251}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4224466969123754285}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1927014180901463817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4115221867933482251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I used to read a lot about ancient creatures when I was a kid...
+--- !u!1 &4499120678715691590
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6447876097299344626}
+  - component: {fileID: 5854675389828280572}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6447876097299344626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4499120678715691590}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8014252442263157720}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5854675389828280572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4499120678715691590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I could do with a nice, refreshing apple juice right about now...
+--- !u!1 &4552601647891335320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2560691012246834862}
+  - component: {fileID: 6618890274977360201}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2560691012246834862
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4552601647891335320}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5757579631184443558}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6618890274977360201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4552601647891335320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Arrghh that is a scary thought!
+--- !u!1 &4820602050700928147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8151196839628938460}
+  - component: {fileID: 5407598132966189271}
+  m_Layer: 9
+  m_Name: Aurelio (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8151196839628938460
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4820602050700928147}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3940634372098388295}
+  m_Father: {fileID: 890414278112589834}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5407598132966189271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4820602050700928147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I still fear sitting on toilets...
+--- !u!1 &5212293490698476778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 890414278112589834}
+  - component: {fileID: 1994920538685120698}
+  m_Layer: 9
+  m_Name: Second conversation (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &890414278112589834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5212293490698476778}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8428880155219323650}
+  - {fileID: 7259605385782530038}
+  - {fileID: 8151196839628938460}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1994920538685120698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5212293490698476778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &6032400130503089180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8043967264656941592}
+  - component: {fileID: 3098223042914855118}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8043967264656941592
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6032400130503089180}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2324679255908247695}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3098223042914855118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6032400130503089180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "Lambert\u2019s kind of spooky."
+--- !u!1 &6404551525854342352
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8428880155219323650}
+  - component: {fileID: 457014279279842662}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8428880155219323650
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6404551525854342352}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 890414278112589834}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &457014279279842662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6404551525854342352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "<size=50%><wiggle a=0.1><rainb>*HONK*</></size> Ah, didn\u2019t see you
+    there!"
+--- !u!1 &6697887174152945677
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5427441868901964959}
+  - component: {fileID: 8912302200806945969}
+  m_Layer: 9
+  m_Name: 'Aurelio: Hi (1)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5427441868901964959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6697887174152945677}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7612943699082938444}
+  m_Father: {fileID: 9201045769563098779}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8912302200806945969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6697887174152945677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 44f02f20ecbea46eea2640b7ecf42c67, type: 3}
+  animatedFrames: {fileID: 0}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Are you really back to open up your aunt's museum? <size=50%><wiggle a=0.1><rainb>*HICCUP*</></size>
+--- !u!1 &6944843500058332200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3119339438643052780}
+  - component: {fileID: 3347372498463129959}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3119339438643052780
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6944843500058332200}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1183387954869978048}
+  m_Father: {fileID: 1153155169859710380}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3347372498463129959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6944843500058332200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "I know you didn\u2019t ask, but I just wanted to lend you a hand, it was
+    so dusty!"
+--- !u!1 &6981941060933393946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9214362562291667624}
+  - component: {fileID: 8871014295896439607}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9214362562291667624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6981941060933393946}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1153155169859710380}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8871014295896439607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6981941060933393946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "I\u2019ve cleaned up the museum!"
+--- !u!1 &7007487645141617099
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1166331554147103399}
+  - component: {fileID: 7647406999280505915}
+  m_Layer: 9
+  m_Name: Second conversation (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1166331554147103399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7007487645141617099}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3978057068514913666}
+  - {fileID: 5757579631184443558}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7647406999280505915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7007487645141617099}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &7042853142513752525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5756661740951335506}
+  - component: {fileID: 8729629941325174326}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5756661740951335506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7042853142513752525}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3821046702874224146}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8729629941325174326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7042853142513752525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Arrghh that is a scary thought!
+--- !u!1 &7146965649656277327
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6007139916262176006}
+  - component: {fileID: 2535413620521134202}
+  - component: {fileID: 1123033897528384976}
+  m_Layer: 9
+  m_Name: Second conversation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &6007139916262176006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7146965649656277327}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3495731925250278967}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2535413620521134202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7146965649656277327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!114 &1123033897528384976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7146965649656277327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 355af0cdc92c24ee18d52904018f38a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &7156619713333375131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6140298273999644937}
+  - component: {fileID: 3807149112357164059}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6140298273999644937
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7156619713333375131}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8296562213076738884}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3807149112357164059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7156619713333375131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: 'It must be scary for your little robot while its digging...<size=50%><wiggle
+    a=0.1><rainb>*HICCUP*</></size> '
+--- !u!1 &7163924835769861450
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2194602178029601762}
+  - component: {fileID: 1580605121392278297}
+  m_Layer: 9
+  m_Name: 'Aurelio: Fossils'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2194602178029601762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7163924835769861450}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3495731925250278967}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1580605121392278297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7163924835769861450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 0}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I can't wait to see the fossils you find! <size=50%><wiggle a=0.1><rainb>*HICCUP*</></size>
+--- !u!1 &7218617405755912014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2324679255908247695}
+  - component: {fileID: 8716672056321189186}
+  m_Layer: 9
+  m_Name: Second conversation (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2324679255908247695
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7218617405755912014}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8043967264656941592}
+  - {fileID: 5198230905085069925}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8716672056321189186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7218617405755912014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &7475750226824197824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3825297261993525657}
+  - component: {fileID: 3701618009117489578}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3825297261993525657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7475750226824197824}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4859321561112906072}
+  m_Father: {fileID: 8014252442263157720}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3701618009117489578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7475750226824197824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: We need to find a fridge for this place.
+--- !u!1 &7545284289218064721
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9201045769563098779}
+  - component: {fileID: 676830804985383235}
+  m_Layer: 9
+  m_Name: Hello
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9201045769563098779
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7545284289218064721}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2731179658421167235}
+  - {fileID: 5427441868901964959}
+  m_Father: {fileID: 8866240079036811197}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &676830804985383235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7545284289218064721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Hi Aurelio, good to see you old friend!
+--- !u!1 &7612673208134345770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7684292924952376963}
+  - component: {fileID: 8726813889118957443}
+  m_Layer: 9
+  m_Name: Aurelio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7684292924952376963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7612673208134345770}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8723274296771424942}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8726813889118957443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7612673208134345770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: <size=50%><wiggle a=0.1><rainb>*HICCUP*</></size> I hope everything goes
+    well for you, Fifi...
+--- !u!1 &7731689561276271653
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8723274296771424942}
+  - component: {fileID: 4740690373028325950}
+  m_Layer: 9
+  m_Name: Second conversation (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8723274296771424942
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7731689561276271653}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7684292924952376963}
+  - {fileID: 2489977607081280469}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4740690373028325950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7731689561276271653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &7736251346902089781
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3495731925250278967}
+  - component: {fileID: 4334555992926678316}
+  m_Layer: 9
+  m_Name: 'Player: Hello again'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3495731925250278967
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736251346902089781}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2194602178029601762}
+  m_Father: {fileID: 6007139916262176006}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4334555992926678316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736251346902089781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 0}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Hello again Aurelio!
+--- !u!1 &7847653876015349410
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3940634372098388295}
+  - component: {fileID: 7918913660696258740}
+  m_Layer: 9
+  m_Name: 'Player: Hello again (1)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3940634372098388295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7847653876015349410}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8151196839628938460}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7918913660696258740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7847653876015349410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Oops, I'm sorry!
+--- !u!1 &7988437972698228477
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 358012687383151031}
+  - component: {fileID: 8919714509031373852}
+  m_Layer: 9
+  m_Name: If already spoken to and no fossils yet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &358012687383151031
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7988437972698228477}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6007139916262176006}
+  - {fileID: 4224466969123754285}
+  - {fileID: 8723274296771424942}
+  - {fileID: 8296562213076738884}
+  - {fileID: 6216867838762389828}
+  - {fileID: 890414278112589834}
+  - {fileID: 1166331554147103399}
+  - {fileID: 1153155169859710380}
+  - {fileID: 2324679255908247695}
+  - {fileID: 8014252442263157720}
+  m_Father: {fileID: 3307098681217423532}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8919714509031373852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7988437972698228477}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5358ecdcf8d48a0abb17097a080b487, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventory: {fileID: 0}
+  dontHave: 0
+  item: Spoken 1
+  count: 1
+  and:
+  - inventory: {fileID: 0}
+    dontHave: 1
+    item: Fossils
+    count: 1
+--- !u!1 &8262283240227931256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7259605385782530038}
+  - component: {fileID: 1996540109870245228}
+  m_Layer: 9
+  m_Name: Aurelio (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7259605385782530038
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8262283240227931256}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 890414278112589834}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1996540109870245228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8262283240227931256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 085593c2dd4354be2b80ac52713825df, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: You used to prank me all the time when we were kids, remember?
+--- !u!1 &9002869083304805534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7043265258081531148}
+  - component: {fileID: 1056625364597753940}
+  m_Layer: 9
+  m_Name: If not spoken to
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7043265258081531148
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9002869083304805534}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8866240079036811197}
+  m_Father: {fileID: 3307098681217423532}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1056625364597753940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9002869083304805534}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5358ecdcf8d48a0abb17097a080b487, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventory: {fileID: 0}
+  dontHave: 1
+  item: Spoken 1
+  count: 1
+  and: []
+--- !u!1 &9091479435913097108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4224466969123754285}
+  - component: {fileID: 2779606482849029335}
+  m_Layer: 9
+  m_Name: Second conversation (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4224466969123754285
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9091479435913097108}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8475309144421253827}
+  - {fileID: 8467101217212871652}
+  m_Father: {fileID: 358012687383151031}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2779606482849029335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9091479435913097108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0

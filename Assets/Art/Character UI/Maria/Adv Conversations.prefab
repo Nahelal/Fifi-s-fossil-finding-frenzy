@@ -1,0 +1,1713 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &71994182959083711
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 947041345617403332}
+  m_Layer: 9
+  m_Name: Maria Conversations
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &947041345617403332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 71994182959083711}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.8664302, y: 0.07210413, z: 1.7635933}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7967696967727779334}
+  - {fileID: 337798769071877475}
+  - {fileID: 6276205980478929648}
+  - {fileID: 4993994077010116003}
+  - {fileID: 3361778725049081215}
+  - {fileID: 6332897725629318672}
+  - {fileID: 9215747648861590772}
+  m_Father: {fileID: 4063668995047843636}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &676674668540467218
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4811532273816079225}
+  - component: {fileID: 8011797647395194620}
+  m_Layer: 9
+  m_Name: Maria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4811532273816079225
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676674668540467218}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7967696967727779334}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8011797647395194620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676674668540467218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I just spent 7000 coins on a new pair of socks.
+--- !u!1 &843662583694522740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3659381676559670812}
+  - component: {fileID: 83317543667070037}
+  m_Layer: 9
+  m_Name: Maria (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3659381676559670812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843662583694522740}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9215747648861590772}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &83317543667070037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843662583694522740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "Give \u2018em some jobs to do!"
+--- !u!1 &1159898894604945007
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7990989925181473257}
+  - component: {fileID: 6965794508788839415}
+  m_Layer: 9
+  m_Name: Maria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7990989925181473257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1159898894604945007}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6276205980478929648}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6965794508788839415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1159898894604945007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: All a girl like me needs is a cone of ice-cream...
+--- !u!1 &1350005476616464003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8999538314591007165}
+  - component: {fileID: 3174965243915304813}
+  m_Layer: 9
+  m_Name: Maria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8999538314591007165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350005476616464003}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9215747648861590772}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3174965243915304813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350005476616464003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: They should really do something about the disenfranchised youth here.
+--- !u!1 &1893038000894518856
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8852311444431545420}
+  - component: {fileID: 6873514093200235876}
+  m_Layer: 9
+  m_Name: Hello
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8852311444431545420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893038000894518856}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6758010685008120905}
+  - {fileID: 2029953562185564088}
+  m_Father: {fileID: 2580617910116731273}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6873514093200235876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893038000894518856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Hi Aurelio, good to see you old friend!
+--- !u!1 &2006942980753572988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6839002127256121853}
+  - component: {fileID: 8569501590909264590}
+  m_Layer: 9
+  m_Name: Maria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6839002127256121853
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006942980753572988}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4993994077010116003}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8569501590909264590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006942980753572988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Have you ever considered... selling me that little plot of land over there?
+--- !u!1 &2455852577933512526
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7055992380219357582}
+  - component: {fileID: 378384610202774293}
+  m_Layer: 9
+  m_Name: Maria (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7055992380219357582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2455852577933512526}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6713861948667879853}
+  m_Father: {fileID: 4993994077010116003}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &378384610202774293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2455852577933512526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "Don\u2019t worry, all I want to do is build a massive oil rig on top of
+    it."
+--- !u!1 &2678359717218381767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5601091477239821249}
+  - component: {fileID: 3531665862626792659}
+  m_Layer: 9
+  m_Name: Maria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5601091477239821249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2678359717218381767}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3361778725049081215}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3531665862626792659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2678359717218381767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "I just spoke to my lawyer... I\u2019m not going to prison!"
+--- !u!1 &2726461264499587071
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 805761531204190293}
+  - component: {fileID: 7379278466718778966}
+  m_Layer: 9
+  m_Name: Maria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &805761531204190293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2726461264499587071}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6332897725629318672}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7379278466718778966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2726461264499587071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: My mother gave me a small loan of 1.000.000 coins when I was a baby...
+--- !u!1 &2777334573082505383
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 833658297274602806}
+  - component: {fileID: 1112859364847487411}
+  m_Layer: 9
+  m_Name: If not spoken to
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &833658297274602806
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2777334573082505383}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.86643, y: -0.07210413, z: -1.7635932}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2580617910116731273}
+  m_Father: {fileID: 380972595060766285}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1112859364847487411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2777334573082505383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5358ecdcf8d48a0abb17097a080b487, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventory: {fileID: 0}
+  dontHave: 1
+  item: Spoken 1
+  count: 1
+  and: []
+--- !u!1 &3172609799369790185
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3361778725049081215}
+  - component: {fileID: 8533159684275065083}
+  m_Layer: 9
+  m_Name: Conversation (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3361778725049081215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3172609799369790185}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5601091477239821249}
+  - {fileID: 5519566707875917089}
+  m_Father: {fileID: 947041345617403332}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8533159684275065083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3172609799369790185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &3402977644617502795
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 993668468862729526}
+  - component: {fileID: 5636296857715302501}
+  m_Layer: 9
+  m_Name: Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &993668468862729526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3402977644617502795}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1302870423648962049}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5636296857715302501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3402977644617502795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Well... You've still got to pick a flavour!
+--- !u!1 &3484158283042664935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2580617910116731273}
+  - component: {fileID: 7495368607122428903}
+  m_Layer: 9
+  m_Name: First Conversation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2580617910116731273
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484158283042664935}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8852311444431545420}
+  m_Father: {fileID: 833658297274602806}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7495368607122428903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484158283042664935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &3991175123162111962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5182880970226828002}
+  - component: {fileID: 7804012693735290030}
+  m_Layer: 9
+  m_Name: Maria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5182880970226828002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3991175123162111962}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8742132011684405119}
+  m_Father: {fileID: 337798769071877475}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7804012693735290030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3991175123162111962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "I\u2019ll claw my way to the deed of your little museum somehow... just
+    you wait."
+--- !u!1 &4009056437868583270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6332897725629318672}
+  - component: {fileID: 591091755524554712}
+  m_Layer: 9
+  m_Name: Conversation (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6332897725629318672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4009056437868583270}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 805761531204190293}
+  m_Father: {fileID: 947041345617403332}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &591091755524554712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4009056437868583270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &4055581904121777360
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6276205980478929648}
+  - component: {fileID: 6413265090935157155}
+  m_Layer: 9
+  m_Name: Conversation (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6276205980478929648
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4055581904121777360}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7990989925181473257}
+  - {fileID: 1302870423648962049}
+  m_Father: {fileID: 947041345617403332}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6413265090935157155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4055581904121777360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &4408346169080120750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8742132011684405119}
+  - component: {fileID: 7008375402047798584}
+  m_Layer: 9
+  m_Name: Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8742132011684405119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4408346169080120750}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5182880970226828002}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7008375402047798584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4408346169080120750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Ok, i'm waiting...
+--- !u!1 &4617439291046609928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2334052436724003781}
+  - component: {fileID: 5324036467175303237}
+  m_Layer: 9
+  m_Name: Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2334052436724003781
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4617439291046609928}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4464829392538163465}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5324036467175303237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4617439291046609928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: At least I have style!
+--- !u!1 &4928627186142934956
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2029953562185564088}
+  - component: {fileID: 867809874259234497}
+  m_Layer: 9
+  m_Name: 'Aurelio: Hi (1)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2029953562185564088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4928627186142934956}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2763053182041435766}
+  m_Father: {fileID: 8852311444431545420}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &867809874259234497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4928627186142934956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 44f02f20ecbea46eea2640b7ecf42c67, type: 3}
+  animatedFrames: {fileID: 0}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Are you really back to open up your aunt's museum? <size=50%><wiggle a=0.1>*HICCUP*</></size>
+--- !u!1 &5298636787240742724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1302870423648962049}
+  - component: {fileID: 6350205803644274119}
+  m_Layer: 9
+  m_Name: Maria (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1302870423648962049
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5298636787240742724}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 993668468862729526}
+  m_Father: {fileID: 6276205980478929648}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6350205803644274119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5298636787240742724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: and a frighteningly large money-making empire... simple, right?
+--- !u!1 &5506560008615998242
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6758010685008120905}
+  - component: {fileID: 654058697304406088}
+  - component: {fileID: 7853301166117394527}
+  m_Layer: 9
+  m_Name: 'Aurelio: Hi'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6758010685008120905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5506560008615998242}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8852311444431545420}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &654058697304406088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5506560008615998242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 532355fa3d3374dea9c9919456042281, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 1e9e2e6ab00224dd695ec36a7730b3c3, type: 2}
+  instantiate: {fileID: 4622102469229348563, guid: 11a489c30fd6441bda42be5381b357fd,
+    type: 3}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: 'Hi! <size=50%><wiggle a=0.1>*HICCUP*</></size> It''s been so long since
+    I saw you! <size=50%><wiggle a=0.1>*HICCUP*</></size> '
+--- !u!114 &7853301166117394527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5506560008615998242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d885d58434d45d58702fbe7afce7527, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item:
+    type: Spoken 1
+    image: {fileID: 0}
+    description: 
+    owner: {fileID: 0}
+    hidden: 1
+  inventory: {fileID: 0}
+--- !u!1 &6189493944311885001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763053182041435766}
+  - component: {fileID: 3275032863067763210}
+  m_Layer: 9
+  m_Name: 'Player: Need Fossils'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763053182041435766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6189493944311885001}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2029953562185564088}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3275032863067763210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6189493944311885001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 0}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Yes I am, but all of the fossils have gone! I'll have to find some more...
+--- !u!1 &7100015017235735393
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5519566707875917089}
+  - component: {fileID: 7583004081769678116}
+  m_Layer: 9
+  m_Name: Maria (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5519566707875917089
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7100015017235735393}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3361778725049081215}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7583004081769678116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7100015017235735393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Turns out you can easily get away with tax-evasion.
+--- !u!1 &7329730391464214910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9215747648861590772}
+  - component: {fileID: 8133587856268277660}
+  m_Layer: 9
+  m_Name: Conversation (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9215747648861590772
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7329730391464214910}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8999538314591007165}
+  - {fileID: 3659381676559670812}
+  m_Father: {fileID: 947041345617403332}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8133587856268277660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7329730391464214910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &7535363684345316721
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4993994077010116003}
+  - component: {fileID: 2670902396807907786}
+  m_Layer: 9
+  m_Name: Conversation (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4993994077010116003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7535363684345316721}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6839002127256121853}
+  - {fileID: 7055992380219357582}
+  m_Father: {fileID: 947041345617403332}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2670902396807907786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7535363684345316721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &7607781377299008111
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6713861948667879853}
+  - component: {fileID: 2496501385944339137}
+  m_Layer: 9
+  m_Name: Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6713861948667879853
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7607781377299008111}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7055992380219357582}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2496501385944339137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7607781377299008111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 0}
+  animatedFrames: {fileID: 11400000, guid: 8cb7bbd74a73b4a86945605b3e5bdd94, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 1
+  hideAvatar: 0
+  isThinking: 0
+  speech: Sorry, it's not for sale...
+--- !u!1 &7638702382545385491
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 380972595060766285}
+  m_Layer: 0
+  m_Name: Adv Conversations
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &380972595060766285
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7638702382545385491}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4063668995047843636}
+  - {fileID: 833658297274602806}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8039361762716772328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7967696967727779334}
+  - component: {fileID: 885539951718862754}
+  m_Layer: 9
+  m_Name: Conversation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7967696967727779334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8039361762716772328}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4811532273816079225}
+  - {fileID: 4464829392538163465}
+  m_Father: {fileID: 947041345617403332}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &885539951718862754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8039361762716772328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &8940385301905976012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 337798769071877475}
+  - component: {fileID: 4423885928574385530}
+  m_Layer: 9
+  m_Name: Conversation (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &337798769071877475
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8940385301905976012}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5182880970226828002}
+  m_Father: {fileID: 947041345617403332}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4423885928574385530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8940385301905976012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &8943347136367825775
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4464829392538163465}
+  - component: {fileID: 5857895412332540154}
+  m_Layer: 9
+  m_Name: Maria (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4464829392538163465
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8943347136367825775}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2334052436724003781}
+  m_Father: {fileID: 7967696967727779334}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5857895412332540154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8943347136367825775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 526d244f8610047cca24320c0c45677e, type: 3}
+  animatedFrames: {fileID: 11400000, guid: 6708dadc950804a479024281512fc2a8, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: They cost more than your entire outfit, kid!
+--- !u!1 &9206274023146037817
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4063668995047843636}
+  - component: {fileID: 5995813122611449713}
+  m_Layer: 9
+  m_Name: If already spoken to
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4063668995047843636
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9206274023146037817}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.86643, y: -0.07210413, z: -1.7635932}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 947041345617403332}
+  m_Father: {fileID: 380972595060766285}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5995813122611449713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9206274023146037817}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5358ecdcf8d48a0abb17097a080b487, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventory: {fileID: 0}
+  dontHave: 0
+  item: Spoken 1
+  count: 1
+  and: []

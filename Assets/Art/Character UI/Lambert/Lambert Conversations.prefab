@@ -1,0 +1,1339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &587503280496901901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3330761756492119973}
+  - component: {fileID: 3343105330835625667}
+  m_Layer: 9
+  m_Name: Lambert (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3330761756492119973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 587503280496901901}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3619809043682602302}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3343105330835625667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 587503280496901901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "That... wasn\u2019t very dark of me."
+--- !u!1 &629626909276928199
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2526970586726414935}
+  - component: {fileID: 6661316589063911212}
+  m_Layer: 9
+  m_Name: Lambert (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2526970586726414935
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 629626909276928199}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5952614630746409366}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6661316589063911212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 629626909276928199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "but she\u2019s actually kinda rad..."
+--- !u!1 &1082166330637056933
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5964101007083013232}
+  - component: {fileID: 7030529635445142960}
+  m_Layer: 9
+  m_Name: Lambert (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5964101007083013232
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1082166330637056933}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6727786242780651315}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7030529635445142960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1082166330637056933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "but this museum\u2019s pretty cool."
+--- !u!1 &1122465992356192822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5142435893048209181}
+  - component: {fileID: 8953071799492093886}
+  m_Layer: 9
+  m_Name: Lambert (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5142435893048209181
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1122465992356192822}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 34780655749939542}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8953071799492093886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1122465992356192822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: My heart yearns to feel their pain...
+--- !u!1 &1278947380020441235
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3100805465199828818}
+  - component: {fileID: 2512555622627869862}
+  m_Layer: 9
+  m_Name: Conversation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3100805465199828818
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278947380020441235}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 25.070145, y: 0, z: -4.378432}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4118285745043154086}
+  - {fileID: 2669513787913171495}
+  m_Father: {fileID: 2668333978153327141}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2512555622627869862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278947380020441235}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &1857801095364760414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5484761574926598410}
+  - component: {fileID: 2289041993413753237}
+  m_Layer: 9
+  m_Name: Lambert
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5484761574926598410
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857801095364760414}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 34780655749939542}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2289041993413753237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857801095364760414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: How do you think these creatures died?
+--- !u!1 &2054670484289844681
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6644058215454994677}
+  - component: {fileID: 5046471431302718258}
+  m_Layer: 9
+  m_Name: Conversation (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6644058215454994677
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2054670484289844681}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 25.070145, y: 0, z: -4.378432}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1426306065129315767}
+  - {fileID: 2281094761066154881}
+  - {fileID: 5802366098318120745}
+  m_Father: {fileID: 2668333978153327141}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5046471431302718258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2054670484289844681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &2473364827658271747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8951773198391205155}
+  - component: {fileID: 2617106370847346893}
+  m_Layer: 9
+  m_Name: Lambert
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8951773198391205155
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2473364827658271747}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3823199483400779080}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2617106370847346893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2473364827658271747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Your buddy Aurelio looks like he could trip and fall any second...
+--- !u!1 &2872519918977779369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5952614630746409366}
+  - component: {fileID: 2923101053238569374}
+  m_Layer: 9
+  m_Name: Conversation (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5952614630746409366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2872519918977779369}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 25.070145, y: 0, z: -4.378432}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 197523000726925775}
+  - {fileID: 2526970586726414935}
+  - {fileID: 5480001390052218304}
+  m_Father: {fileID: 2668333978153327141}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2923101053238569374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2872519918977779369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &3206156633443822370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5480001390052218304}
+  - component: {fileID: 459592703265096117}
+  m_Layer: 9
+  m_Name: Lambert (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5480001390052218304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3206156633443822370}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5952614630746409366}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &459592703265096117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3206156633443822370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "Don\u2019t tell her I said that."
+--- !u!1 &4392488758596378691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4118285745043154086}
+  - component: {fileID: 5959249930430462609}
+  m_Layer: 9
+  m_Name: Lambert
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4118285745043154086
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4392488758596378691}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3100805465199828818}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5959249930430462609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4392488758596378691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: The world is an ugly place...
+--- !u!1 &4447103033461249276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 197523000726925775}
+  - component: {fileID: 7077881405734053356}
+  m_Layer: 9
+  m_Name: Lambert
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &197523000726925775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4447103033461249276}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5952614630746409366}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7077881405734053356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4447103033461249276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: Starglimmer is a pain in the skull sometimes...
+--- !u!1 &4637689265255741326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3619809043682602302}
+  - component: {fileID: 2883165098780071016}
+  m_Layer: 9
+  m_Name: Conversation (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3619809043682602302
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4637689265255741326}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 25.070145, y: 0, z: -4.378432}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5196063491834071304}
+  - {fileID: 8219537855980909819}
+  - {fileID: 3330761756492119973}
+  m_Father: {fileID: 2668333978153327141}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2883165098780071016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4637689265255741326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &4749528129187348278
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2668333978153327141}
+  m_Layer: 9
+  m_Name: Lambert Conversations
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2668333978153327141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4749528129187348278}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.0247402, y: 0, z: 18.142881}
+  m_LocalScale: {x: 1.0000107, y: 1.0000108, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3100805465199828818}
+  - {fileID: 34780655749939542}
+  - {fileID: 6727786242780651315}
+  - {fileID: 3823199483400779080}
+  - {fileID: 5952614630746409366}
+  - {fileID: 3619809043682602302}
+  - {fileID: 6644058215454994677}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5170210990829900778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2281094761066154881}
+  - component: {fileID: 3558968289255655624}
+  m_Layer: 9
+  m_Name: Lambert (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2281094761066154881
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5170210990829900778}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6644058215454994677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3558968289255655624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5170210990829900778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "But Maria\u2019s the puppetmaster."
+--- !u!1 &5247215390989111286
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3823199483400779080}
+  - component: {fileID: 5714078346850085915}
+  m_Layer: 9
+  m_Name: Conversation (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3823199483400779080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5247215390989111286}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 25.070145, y: 0, z: -4.378432}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8951773198391205155}
+  - {fileID: 467587162323193585}
+  m_Father: {fileID: 2668333978153327141}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5714078346850085915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5247215390989111286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &6349362394035993013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5802366098318120745}
+  - component: {fileID: 5769158310518837708}
+  m_Layer: 9
+  m_Name: Lambert (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5802366098318120745
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6349362394035993013}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6644058215454994677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5769158310518837708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6349362394035993013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I need to write a song about this right now!
+--- !u!1 &6374156401521455734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8219537855980909819}
+  - component: {fileID: 9220133652839057278}
+  m_Layer: 9
+  m_Name: Lambert (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8219537855980909819
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6374156401521455734}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3619809043682602302}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9220133652839057278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6374156401521455734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "I\u2019ll be shrouded by darkness forever. <size=50%><wiggle a=0.1><rainb>*SNEEZE*</></size>"
+--- !u!1 &7408732492860244043
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5196063491834071304}
+  - component: {fileID: 3120376429162858222}
+  m_Layer: 9
+  m_Name: Lambert (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5196063491834071304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7408732492860244043}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3619809043682602302}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3120376429162858222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7408732492860244043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: My parents will never understand me...
+--- !u!1 &7668708428326965368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6727786242780651315}
+  - component: {fileID: 5340486219320202240}
+  m_Layer: 9
+  m_Name: Conversation (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6727786242780651315
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7668708428326965368}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 25.070145, y: 0, z: -4.378432}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1200011186036448976}
+  - {fileID: 5964101007083013232}
+  m_Father: {fileID: 2668333978153327141}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5340486219320202240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7668708428326965368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &7796593325148373024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1200011186036448976}
+  - component: {fileID: 2519682372729275962}
+  m_Layer: 9
+  m_Name: Lambert
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1200011186036448976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7796593325148373024}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6727786242780651315}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2519682372729275962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7796593325148373024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: I hate this stupid society...
+--- !u!1 &8172148145160259387
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 467587162323193585}
+  - component: {fileID: 5509977903475955167}
+  m_Layer: 9
+  m_Name: Lambert (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &467587162323193585
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8172148145160259387}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3823199483400779080}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5509977903475955167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8172148145160259387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "<size=50%><wiggle a=0.1><rainb>*CHUCKLE*</></size> It\u2019s kind of cute,
+    though."
+--- !u!1 &8665600701874339912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1426306065129315767}
+  - component: {fileID: 6486022904274004671}
+  m_Layer: 9
+  m_Name: Lambert (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1426306065129315767
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8665600701874339912}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6644058215454994677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6486022904274004671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8665600701874339912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: "Everyone\u2019s a pawn to capitalism..."
+--- !u!1 &9004315216751527432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 34780655749939542}
+  - component: {fileID: 2677149553809545535}
+  m_Layer: 9
+  m_Name: Conversation (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &34780655749939542
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9004315216751527432}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 25.070145, y: 0, z: -4.378432}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5484761574926598410}
+  - {fileID: 5142435893048209181}
+  m_Father: {fileID: 2668333978153327141}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2677149553809545535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9004315216751527432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecae296639a145f2869a1ba2e97f5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationName: 
+  isOpener: 1
+  count: 0
+--- !u!1 &9118150925509253527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2669513787913171495}
+  - component: {fileID: 6113659773844570689}
+  m_Layer: 9
+  m_Name: Lambert (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2669513787913171495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9118150925509253527}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.085958, y: 0, z: -2.628394}
+  m_LocalScale: {x: 1.0000107, y: 1.000011, z: 1.0000107}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3100805465199828818}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6113659773844570689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9118150925509253527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40848eab5597460d85b81982a2332389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateBefore: []
+  deactivateBefore: []
+  activateAfter: []
+  deactivateAfter: []
+  avatar: {fileID: 21300000, guid: 2a2dff6924579478eac9efb20da6068f, type: 3}
+  animatedFrames: {fileID: 11400000, guid: a191590f1e74d41ff8e550b406e3add4, type: 2}
+  instantiate: {fileID: 0}
+  delay: 0.1
+  isPlayer: 0
+  hideAvatar: 0
+  isThinking: 0
+  speech: but my soul is even uglier.
