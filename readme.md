@@ -1,7 +1,7 @@
 ## Paleontology Game
 
 ### Elevator Pitch
-
+ 
 Dig, discover, and design your own dinosaurs in this hands-on paleontology adventure! 
 Experiment with fossil combinations to craft your own prehistoric species and fill your museum with one of a kind exhibits.
 
